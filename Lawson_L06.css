@@ -1,0 +1,28 @@
+/*
+* Name 
+* Due date 
+* project Name and description
+*/
+
+/* the universal selector */
+
+*{
+
+}
+
+/* Body Attributes here */
+
+body{
+    background-color:skyblue;
+    color:black;
+    font-family: gerorga;
+    }
+tabel{
+    color:black
+}
+th{
+    color:white
+}
+Td{
+    color:hotpink
+}
